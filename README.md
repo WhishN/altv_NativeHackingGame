@@ -35,3 +35,5 @@ alt.on("HackingGame:Result", (result) => {
 Original Source:
 ===
 Repo: [GTA Chaos Mod](https://github.com/gta-chaos-mod/ChaosModV/blob/master/ChaosMod/Effects/db/Player/PlayerHacking.cpp "GTA Chaos Mod") Author: [DrUnderscore](https://github.com/drunderscore "DrUnderscore")
+
+[![Preview](https://www.bilder-upload.eu/thumb/7a132f-1610267803.png "Preview")](https://www.bilder-upload.eu/bild-7a132f-1610267803.png.html "Preview")
