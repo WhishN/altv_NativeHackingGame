@@ -60,7 +60,7 @@ class HackingGame {
         }
 
         if(minSpeed < 10 || maxSpeed > 200 || minSpeed > maxSpeed) {
-            this._LogError("Invalid Speed Parameter");
+            this._LogError("Invalid Speed Parameter has to be: 10 <= minSpeed <= maxSpeed <= 200");
             return;
         }
 
